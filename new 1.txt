@@ -1,0 +1,22 @@
+MTD COMPETETIVE PROGRAMMING TRAINING
+
+DAY1 THURSDAY 06-03-2025
+
+Important git commands
+
+git status
+
+git clone https://github.com/dhanushcyadav/mtd_c_py
+
+$ git pull origin main
+// Command to download the updated repo from the server to the local machine
+
+To make our computer recognized our git account , we must run these 2 configuration commands:
+
+$ git config --global user.name "dhanushcyadav"
+
+$ git config --global user.mail "dhanushyadav559@gmail.com"
+
+STEPS TO CREATE A NEW PAT IN GITHUB:
+
+login to gthub
